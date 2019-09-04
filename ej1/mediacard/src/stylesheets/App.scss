@@ -1,0 +1,18 @@
+@import "./footer.scss";
+@import "./header.scss";
+@import "./main.scss";
+.app {
+  text-align: center;
+  background-color: rgb(190, 185, 185);
+  margin: auto;
+  padding: 50px;
+  min-height: 100vh;
+}
+
+.app-container {
+  background-color: white;
+  padding: 20px;
+}
+
+.app-header {
+}
